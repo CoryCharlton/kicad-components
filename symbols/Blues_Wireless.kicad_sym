@@ -1,18 +1,18 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "Notecarrier-B" (in_bom yes) (on_board yes)
+  (symbol "Notecarrier-B_1.6" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Notecarrier-B" (id 1) (at 0 -33.02 0)
+    (property "Value" "Notecarrier-B_1.6" (id 1) (at 0 -33.02 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Blues_Wireless:Notecarrier-B" (id 2) (at 0 -35.56 0)
+    (property "Footprint" "Blues_Wireless:Notecarrier-B_1.6" (id 2) (at 0 -35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://dev.blues.io/hardware/notecarrier-datasheet/notecarrier-b/" (id 3) (at 0 -38.1 0)
+    (property "Datasheet" "https://dev.blues.io/hardware/notecarrier-datasheet/notecarrier-b-v1-0/" (id 3) (at 0 -38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Notecarrier-B_0_0"
+    (symbol "Notecarrier-B_1.6_0_0"
       (pin bidirectional line (at -10.16 12.7 0) (length 2.54)
         (name "AUX1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -86,7 +86,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Notecarrier-B_0_1"
+    (symbol "Notecarrier-B_1.6_0_1"
       (rectangle (start -7.62 20.32) (end 7.62 -20.32)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
